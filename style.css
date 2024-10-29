@@ -1,0 +1,27 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 1.8rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+nav {
+    background-color: darkcyan;
+    padding: 30px;
+    text-align: center;
+    margin: -8px;
+}
+
+nav>a {
+    margin: 50px;
+    text-decoration: none;
+    color: white;
+}
+
+button,
+input {
+    border-radius: 12px;
+    text-align: center;
+    padding: 10px;
+}
